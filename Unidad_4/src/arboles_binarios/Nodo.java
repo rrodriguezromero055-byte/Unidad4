@@ -9,5 +9,10 @@ package arboles_binarios;
  * @author Romero
  */
 public class Nodo {
+    int numero;
+   
+     Nodo hijoIzquierdo; 
+     Nodo hijoDerecho; 
+
     
 }
