@@ -5,14 +5,15 @@
 package arboles_binarios;
 
 /**
- *
+ * Este es el nodo del arbol binario
+ * Ahora guarda una cadena y las referencias de su hijos
  * @author Romero
  */
 public class Nodo {
     int numero;
-   
-     Nodo hijoIzquierdo; 
-     Nodo hijoDerecho; 
+    String dato;
+    Nodo hijoIzquierdo; 
+    Nodo hijoDerecho; 
 
     
 }
